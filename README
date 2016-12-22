@@ -2,6 +2,8 @@
 
 This is a simple spec file to build couchdb as a CentOS/RedHat RPM which includes systemd unit scripts.
 
+Tested on RedHat 7.0 building Apache CouchDB 2.0
+
 ## Quick usage
 
 ### Clone the repo to your homedir
